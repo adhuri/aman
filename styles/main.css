@@ -9276,6 +9276,30 @@ body {
 .ww-title-non-cursive {
   font-family: 'Satisfy', cursive;
 }
+.ww-title-non-cursive-small {
+  font-family: 'Satisfy', cursive;
+  font-size: small;
+}
+.ww-title-non-cursive-medium {
+  font-family: 'Satisfy', cursive;
+  font-size: medium;
+}
+.ww-title-non-cursive-large {
+  font-family: 'Satisfy', cursive;
+  font-size: large;
+}
+.ww-title-non-cursive-xlarge {
+  font-family: 'Satisfy', cursive;
+  font-size: x-large;
+}
+.ww-title-non-cursive-xxlarge {
+  font-family: 'Satisfy', cursive;
+  font-size:xx-large;
+}
+
+.color-white{
+  color:white
+}
 
 .ww-section {
   padding: 100px 0;
