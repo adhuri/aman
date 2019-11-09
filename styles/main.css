@@ -9273,6 +9273,10 @@ body {
   font-family: "Great Vibes", cursive;
 }
 
+.ww-title-non-cursive {
+  font-family: 'Satisfy', cursive;
+}
+
 .ww-section {
   padding: 100px 0;
 }
